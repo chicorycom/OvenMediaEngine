@@ -2,7 +2,7 @@
     <img src="ome_favicon.svg" alt="OvenMediaEngine logo" title="OvenMediaEngine" align="left" height="60" />
 </a>
 
-## What is OvenMediaEngine?
+## What is OvenMediaEngine by Chicorycom?
 
 OvenMediaEngine \(OME\) is an open source, streaming server with sub-second latency. OME receives video via RTMP or other protocols from live encoders such as OBS, XSplit and transmits it on WebRTC and Low-Latency DASH. So, sub-second latency streaming from OME can work seamlessly in your browser without plug-ins. Also, OME provides [OvenPlayer](https://github.com/AirenSoft/OvenPlayer), the HTML5 standard web player.
 
